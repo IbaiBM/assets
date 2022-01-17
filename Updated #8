@@ -1,0 +1,37 @@
+{
+    "name": "Flipper #8-UPDATED",
+    "description": "First Flippers",
+    "image": "8.png",
+    "edition": 8,
+    "seller_fee_basis_points": 500,
+    "collection": {
+        "name": "Flipper Therapy",
+        "family": "1st Flippers"
+    },
+    "symbol": "FLIP",
+    "properties": {
+        "files": [
+            {
+                "uri": "8.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "CGQo8JrwENvAYp2rKFeNwiU4TK7FYBhmsEgSuZdvHGmV",
+                "share": 100
+            }
+        ]
+    },
+    "attributes": [
+        {
+            "trait_type": "cuerpos",
+            "value": "DELFIN_vaca"
+        },
+        {
+            "trait_type": "ojos",
+            "value": "DELFIN_ojos lobo comiquitas"
+        }
+    ]
+}
